@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An eglogue. gratulatorie. Entituled: To the right honorable, and renowmed shepheard of Albions Arcadia: Robert earle of Exxex and Ewe for his vvelcome into England from Portugall. Done by George Peele. Maister of arts in Oxon.</title>
+            <author>Peele, George, 1556-1596.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15210</idno><idno type="EEBO-CITATION">99849497</idno>
+  <idno type="VID">178245</idno>
+  <idno type="EEBO-PROQUEST">2248528290</idno>
+  <idno type="STC">STC 19534</idno>
+  <idno type="STC">ESTC S114271</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849497e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1526:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An eglogue. gratulatorie. Entituled: To the right honorable, and renowmed shepheard of Albions Arcadia: Robert earle of Exxex and Ewe for his vvelcome into England from Portugall. Done by George Peele. Maister of arts in Oxon.</title>
+                  <author>Peele, George, 1556-1596.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by [J. Windet for] Richard Jones, and are to be solde at the signe of the Rose and Crowne, ouer against the Faulcon,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1589.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Actual printer from STC.</note>
+                  <note>Print show-through; pages cropped.</note>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1566-1601 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178245:1"/>
+            <p>ANEGLOGVE.</p>
+            <p>GRATVLATORIE.</p>
+            <p>
+               <hi>Entituled:</hi>
+               <lb/> ¶ To the right honorable, and renowmed <hi>Shepheard of Albions Arcadia:</hi> Robert Earle of <hi>Essex</hi> and <hi>Ewe,</hi> for his vvelcome <hi>into England from</hi> Portugall.</p>
+            <p>Done by <hi>George Peele.</hi> Maister of arts in Oxon.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>AT LONDON; <hi>Printed by Richard Jones, and are to be</hi> solde at the signe of the Rose and Crowne, ouer against the Faulcon. 1589.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:178245:2"/>
+            <pb facs="tcp:178245:2"/>
+            <head>❧ THE RIGHT HONORA<g ref="char:EOLhyphen"/>ble <hi>Earle of</hi> Essex <hi>his welcom into</hi> England, from Portugall.</head>
+            <sp>
+               <speaker>Piers. Palinode.</speaker>
+               <l>Dicite Io Paean, &amp; Io bis dicite Paean,</l>
+               <l>In Patriam rediit magnus <hi>Apollo</hi> suam.</l>
+            </sp>
+            <sp>
+               <speaker>PALINODE.</speaker>
+               <l>
+                  <seg rend="decorInit">H</seg>Erdgrome, vvhat gars thy pipe to goe so loud?</l>
+               <l>Why bin thy bookes so smicker and so proud?</l>
+               <l>Perdie plaine <hi>Piers,</hi> but this couthe ill agree,</l>
+               <l>With thilke bad fortune, that ay thvvarteth thee.</l>
+            </sp>
+            <sp>
+               <speaker>Piers.</speaker>
+               <l>That thvvarteth me, good <hi>Palinode,</hi> is fate,</l>
+               <l>Yborne vvas <hi>Piers</hi> to be infortunate.</l>
+               <l>Yet shall my Bagpipe go so loud and shrill,</l>
+               <l>That heauen may entertaine my kind good vvill.</l>
+               <l>
+                  <hi>Jo Io Paean.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Palinode.</speaker>
+               <l>Sot I say, Lose I, leudest of all svvaines,</l>
+               <l>Singest thou proud <hi>Paeans</hi> on these open plaines?</l>
+               <l>So ill sitteth this straine, this loftie note,</l>
+               <l>With thy rude tire, and gray russet cote.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:178245:3"/>
+               <speaker>Piers.</speaker>
+               <l>Gray as my cote is, greene all are my cares,</l>
+               <l>My grasse to drosse, my corne is turned to tares:</l>
+               <l>Yet euen and morrovv vvill I neuer lin,</l>
+               <l>To make my crovvd speake as it did begin.</l>
+               <l>
+                  <hi>Jo Io Paean.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Palinode.</speaker>
+               <l>Thou art too crancke, and crovvdest all to hie,</l>
+               <l>Bevvare a Chip fall not into thine eie:</l>
+               <l>(Man) if <hi>Triumphals</hi> heere be in request,</l>
+               <l>Then let them chaunt them, that can chaunt them best.</l>
+            </sp>
+            <sp>
+               <speaker>Piers.</speaker>
+               <l>Thou art a sovvre svvaine <hi>Palinode</hi> perdie,</l>
+               <l>My Bagpipe vaunteth not of victorie:</l>
+               <l>Then giue me leaue, sonizance to make,</l>
+               <l>For chiualrie, and louely learnings sake.</l>
+               <l>
+                  <hi>Io Io Paean.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Palinode.</speaker>
+               <l>Thou hardy <hi>Herdsman,</hi> darest thou of Arms chaunt</l>
+               <l>Sike verse I tell thee, ought haue a great vaunt:</l>
+               <l>Then hovv may thy boldnes scape a fine frumpe,</l>
+               <l>
+                  <hi>Warres Laud,</hi> is matter for the brasen Trumpe.</l>
+            </sp>
+            <sp>
+               <speaker>Piers.</speaker>
+               <l>Of Armes to sing, I haue nor lust nor skill,</l>
+               <l>Enough is me, to blazon my good vvill:</l>
+               <pb facs="tcp:178245:3"/>
+               <l> To vvelcome home that long hath lacked beene,</l>
+               <l>One of the iolliest <hi>Shepherds</hi> of our Greene.</l>
+               <l>
+                  <hi>Io Io Paean.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Palinode.</speaker>
+               <l>Tell me good <hi>Piers,</hi> I pray thee tell it me,</l>
+               <l>What may thilk iollie svvaine or shepherd be?</l>
+               <l>Or vvhence y comen? that he thus vvelcome is,</l>
+               <l>That thou art all so blithe to see his blisse.</l>
+            </sp>
+            <sp>
+               <speaker>Piers.</speaker>
+               <lg>
+                  <l>
+                     <hi>Palinode,</hi> thou makest a double demaund,</l>
+                  <l>Which I vvill ansvvere, as I vnderstand.</l>
+                  <l>Yet vvill I not forget, so God me mend,</l>
+                  <l>To pipe lovvd <hi>Paeans</hi> as my <hi>Stanzaes</hi> end.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thilk Shepheard <hi>(Palinode)</hi> vvhom my pipe praiseth,</l>
+                  <l>Whose glory, my reed to the vvelkin raiseth:</l>
+                  <l>He is a great <hi>Herdgroome,</hi> certes, but no svvaine,</l>
+                  <l>Saue hers that is the <hi>Flowre of</hi> Phaebes <hi>plaine.</hi>
+                  </l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He is vvel alied and loued of the best,</l>
+                  <l>Well thevved, faire and francke, and famous by hys Crest:</l>
+                  <l>His <hi>Raine Deere</hi> racking vvith proud &amp; stately pace,</l>
+                  <l>Giueth to his flocke a right beautifull grace.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:178245:4"/>
+                  <l>He vvaits where our great <hi>Shepherdesse</hi> doth vvunne,</l>
+                  <l>He plaieth in the shade, and thriueth in the Sunne:</l>
+                  <l>He shineth on the plaines, his lustie flocke him by,</l>
+                  <l>As vvhen <hi>Apollo</hi> kept in <hi>Arcadie.</hi>
+                  </l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Fellovv in Armes he vvas, in their flovving deies,</l>
+                  <l>With that great <hi>Shepherd</hi> good <hi>Philisides:</hi>
+                  </l>
+                  <l>And in sad sable did I see him dight.</l>
+                  <l>Moning the misse of <hi>Pallas</hi> peereles Knight.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>With him he seru'd, and vvatcht and vvaited fate,</l>
+                  <l>To keepe the grim Wolfe from <hi>Elizaes</hi> gate:</l>
+                  <l>And for their <hi>Mistresse</hi> thoughten these tvvo svvains,</l>
+                  <l>They moughten neuer take too mickle paines.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But, ah for griefe, that iolly groome is dead,</l>
+                  <l>For vvhome the <hi>Muses</hi> siluer teares haue shed:</l>
+                  <l>Yet in this louelie svvaine, source of our glee,</l>
+                  <l>Mun all his Vertues svveet reuiuen bee.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Palinode.</speaker>
+               <l>So moughten they <hi>Piers,</hi> and happilie thriue,</l>
+               <l>To keepen this <hi>Herdsinan</hi> after death aliue:</l>
+               <pb facs="tcp:178245:4"/>
+               <l> But vvhence I pray thee, tel me, come is hee,</l>
+               <l>For vvhome thy Pipe and <hi>Paeans</hi> make such glee?</l>
+            </sp>
+            <sp>
+               <speaker>Piers.</speaker>
+               <lg>
+                  <l>Certes Sir <hi>Shepheard,</hi> commen he is fro far,</l>
+                  <l>Fro vvrath of deepest Seas and storme of War:</l>
+                  <l>Safe is he come, O svvell my Pipe vvith ioy,</l>
+                  <l>To the olde buildings of <hi>Nue reared Troy.</hi>
+                  </l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Fro Sea, fro Shore, vvhere he vvith svvinck and svveat</l>
+                  <l>Felt <hi>Foemans</hi> rage, and Sommers parching heat:</l>
+                  <l>Safe is he come, laden vvith Honors spoile,</l>
+                  <l>O svvell my Pipe vvith ioy, and breake the vvhile.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Palinode.</speaker>
+               <lg>
+                  <l>Thou foolish svvaine that thus art ouerioied,</l>
+                  <l>Hovv soone may heere thy courage be accoyed:</l>
+                  <l>If he be one come nevv fro <hi>Westerne</hi> coast,</l>
+                  <l>Small cause hath he or thou for him to boast.</l>
+               </lg>
+               <lg>
+                  <l>I see no Palme, I see no Laurell bovves,</l>
+                  <l>Circle his temples, or adorne his brovves,</l>
+                  <l>I heare no Triumphes for this late returne,</l>
+                  <l>But many a <hi>Herdsman</hi> more disposde to morne.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb facs="tcp:178245:5"/>
+               <speaker>Piers.</speaker>
+               <lg>
+                  <l>Pale lookest thou like Spite, proud <hi>Palinode,</hi>
+                  </l>
+                  <l>Venter doth losse, and vvarre do the danger bode:</l>
+                  <l>But thou art of those <hi>Haruesters</hi> I see,</l>
+                  <l>Would at one shocke, spoile all the <hi>Philherd-Tree.</hi>
+                  </l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For shame I say, giue Vertue honors due.</l>
+                  <l>Ile please the <hi>Shepherd,</hi> but by telling true:</l>
+                  <l>Palme maist thou see, and Baies about his head,</l>
+                  <l>That all his flocke, right forvvardly hath led.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But vvoe is me levvd lad, fames full of lies,</l>
+                  <l>Enuie doth ay true honors deeds despise,</l>
+                  <l>Yet chiualrie vvill mount vvith glorious vvings,</l>
+                  <l>Spite all and nestle neere the seat of kings.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Base thrall is he, that is foule slaunders slaue,</l>
+                  <l>To pleasen all, vvhat vvight may him behaue:</l>
+                  <l>Yea, <hi>Ioues</hi> great sonne though he vvere novv aliue,</l>
+                  <l>Mought find no vvay thilk labour to atchiue.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <pb facs="tcp:178245:5"/>
+               <speaker>Palinode.</speaker>
+               <lg>
+                  <l>Well plead'st thou (gentle Lad) for this great peere,</l>
+                  <l>Then tell me sith but thou and I am here?</l>
+                  <l>Did not thick Bagpipe man vvhich thou dost blovv</l>
+                  <l>A farevvell on our Souldiers erst bestovv?</l>
+               </lg>
+               <lg>
+                  <l>Hovv yst then, thicke great <hi>Shepherd</hi> of the field,</l>
+                  <l>To vvhome our svvaines, sike hūble beisance yeild:</l>
+                  <l>And thou these Laudes and labours seriouslie,</l>
+                  <l>Was in that vvorke, not mencioned speciallie.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Piers.</speaker>
+               <lg>
+                  <l>Harke <hi>Palinode,</hi> me dare not speake to lovvd,</l>
+                  <l>Hence vvas he raught, vvrapt in a fierie cloud:</l>
+                  <l>With <hi>Mars</hi> his <hi>Viceroy, and a golden Drake,</hi>
+                  </l>
+                  <l>So that of him, me durst no notice take.</l>
+                  <l>
+                     <hi>Jo Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But novv returnd, to royallize his fame,</l>
+                  <l>Whose mightie thoughts, at Honors <hi>Tropheis</hi> aime:</l>
+                  <l>Least vvorthily, I moughten vvitned bee,</l>
+                  <l>I vvelcome him vvith Shepherds country glee.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And of his dread aduentures here sing I,</l>
+                  <l>Equiuolent vvith the <hi>Punic Chiualrie:</hi>
+                  </l>
+                  <pb facs="tcp:178245:6"/>
+                  <l> That brake his Launce, vvith terror and renovvne,</l>
+                  <l>Against the gates of slaughtered <hi>Rhemus Towne.</hi>
+                  </l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And vvas the first of many thousands more,</l>
+                  <l>That at <hi>Penechia</hi> vvaded to the shore:</l>
+                  <l>There couthe he lead his landed flocke so far,</l>
+                  <l>Till a vvas left of men approoued in vvar.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O Honors fire, that not the brackish Sea,</l>
+                  <l>Mought quench, nor <hi>Foemans</hi> fearefull Larums lay:</l>
+                  <l>So high those golden flakes done mount and clime,</l>
+                  <l>That they exceed the reach of <hi>Shepherds</hi> time.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Palinode.</speaker>
+               <lg>
+                  <l>What boot thy vvelcomes, foolish hardie svvaine,</l>
+                  <l>Lovvder pipes then thine, are going on this plaine:</l>
+                  <l>Faire <hi>Elizaes</hi> Lasses and her great Groomes,</l>
+                  <l>Receiue this <hi>Shepherd</hi> vvith vnfaigned vvelcomes.</l>
+               </lg>
+               <lg>
+                  <l>Honour is in him that doth it bestovve,</l>
+                  <l>Thy Reed to rough, thy seat is all to lovve.</l>
+                  <l>To vvriten sike praise, hadst thou blithe <hi>Homers</hi> quil</l>
+                  <l>Thou moughtest haue matter equall vvith thy skill.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb facs="tcp:178245:6"/>
+               <speaker>Piers.</speaker>
+               <lg>
+                  <l>Tvvit me vvith boldnes, <hi>Palin</hi> as thou vvilt,</l>
+                  <l>My good mind be my glorie and my guilt:</l>
+                  <l>Be my praise lesse or mickle, all is one,</l>
+                  <l>His hie deserts deseruen to be knovven.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>So cease my pipe, the vvorthies to record,</l>
+                  <l>Of thilke great <hi>Shepherd,</hi> of thicke faire yong Lord:</l>
+                  <l>Leaue him vvith lucke, to those vvell tuned Laies,</l>
+                  <l>That better ken to sound sike <hi>Shepherds</hi> praies.</l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Novv time is neere to pen our Sheepe in folde,</l>
+                  <l>And Euening aire, is rumaricke and colde:</l>
+                  <l>For my late Songs, plead thou my pure good vvill,</l>
+                  <l>
+                     <hi>Though Newcome once (Braue Earle) yet welcome still.</hi>
+                  </l>
+                  <l>
+                     <hi>Io Io Paean.</hi>
+                  </l>
+               </lg>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
